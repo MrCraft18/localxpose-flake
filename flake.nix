@@ -12,7 +12,7 @@
             };
             "aarch64-linux" = {
                 url = "https://loclx-client.s3.amazonaws.com/loclx-linux-arm64.zip";
-                sha256 = "0000000000000000000000000000000000000000000000000000"; 
+                sha256 = "sha256-Ojg+OxWtq+N5+z9wEsXA+T6hCbdWBYpuohzYK87jNxI="; 
             };
         };
 
